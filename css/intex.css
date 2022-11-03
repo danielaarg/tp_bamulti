@@ -15,3 +15,6 @@ img{
     margin-left: 30px;
     border-style: solid;color: black;
 }
+body{
+    background: rgb(red, green, blue);
+}
