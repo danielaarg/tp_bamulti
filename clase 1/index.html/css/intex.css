@@ -1,13 +1,14 @@
 h1{
     text-decoration-line: underline;
     text-align: center;
-    font-size : 100px;
+    font-size : 50px;
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blueviolet;
 
 }
 img{
+    
     max-width: 400px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -16,7 +17,7 @@ img{
     border-style: solid;color: black;
 }
 body{
-    background: rgb( blue);
+    background-color: rgb(235, 163, 75);
    
     
    
